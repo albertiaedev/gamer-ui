@@ -1,6 +1,6 @@
 # Gamer UI
 
-This is the principal structure of a new Flutter project.
+This is the principal structure of a Flutter project for a videogame app.
 
 ### Getting Started:
 
